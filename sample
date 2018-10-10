@@ -1,1 +1,20 @@
 hai divya how r u doing ??
+
+
+
+
+git clone <!....!.some branch> to clone the branch
+
+ls  --> to check the files in the directory
+
+change the directory with any data
+
+git status --> to check with the directory has any changes or not
+
+git add . -->this add command adds all the local changes to the cloud path
+
+git status
+
+git commit -m "any message"
+
+git push origin master
